@@ -25,7 +25,7 @@ Cidan Shi, Lihuang Fang, **Han Wu**, Xiaoyu Xian, Yukai Shi, Liang Lin
 **IEEE Transactions on Multimedia (T-MM)**, 2024.[[PDF](https://ieeexplore.ieee.org/document/10499836)] [[Code](https://github.com/CidanShi/NiteDR-Nighttime-Image-De-raining)]
 - ***One-shot Face Sketch Synthesis in the Wild via Generative Diffusion Prior and Instruction Tuning*** \
 **Han Wu**, Junyao Li, Kangbo Zhao, Sen Zhang, Yukai Shi, Liang Lin \
-**ACM Transactions on Multimedia Computing Communications and Applications (ACM TOMM‌)**, 2026.[[PDF](https://arxiv.org/abs/2506.15312)]  
+**ACM Transactions on Multimedia Computing Communications and Applications (ACM TOMM‌)**, 2026.[[PDF](https://dl.acm.org/doi/10.1145/3803012)]  
 
 # 📖 Educations
 - *2023.09 - now*, Master, School of Information Engineering, Guangdong University of Technology.
