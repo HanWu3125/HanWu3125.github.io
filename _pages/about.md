@@ -3,39 +3,29 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+redirect_from:   
+- /about/  
+- /about.html
 ---
-
 # 💬 About me
 I received my Bachelor's degree from the School of Information Engineering, Guangdong University of Technology. Currently, I am a Master's candidate at the same school, advised by [Prof. Yukai Shi](https://ykshi.github.io/). 
 
-
-**Research interest:** Infrared small target detection, 3D target detection, Transformer, Diffusion. 
+**Research interest:** Infrared small target detection, De-Raining, Face sketch synthesis, Computer vision, Diffusion. 
 
 ***Never stop looking for collaboration, kindly contact me via email.***
 
 
 
-
 # 📝 Publications 
-
-#### Infrared Small Target Detection
-- ***Exploiting Gaussian Agnostic Representation Learning with Diffusion Priors for Enhanced Infrared Small Target Detection*** \
-Junyao Li, **Yahao Lu***, Xingyuan Guo, Xiaoyu Xian, Tiantian Wang, Yukai Shi \
-**Neural Networks (NN))**, 2025. [[PDF](https://arxiv.org/abs/2507.18260)][[Code(Coming soon)](https://luy0222.github.io/)]
-- ***Rethinking Generalizable Infrared Small Target Detection: A Real-scene Benchmark and Cross-view Representation Learning*** \
-**Yahao Lu***, Yuehui Li, Xingyuan Guo, Shuai Yuan, Yukai Shi, Liang Lin \
-**IEEE Transactions on Geoscience and Remote Sensing (T-GRS)**, 2025.[[PDF](https://arxiv.org/abs/2504.16487)][[Code and Dataset](https://github.com/luy0222/RealScene-ISTD)]
 - ***SIRST-5K: Exploring Massive Negatives Synthesis with Self-supervised Learning for Robust Infrared Small Target Detection*** \
-**Yahao Lu***, Yupei Lin, Han Wu, Xiaoyu Xian, Yukai Shi, Liang Lin \
+Yahao Lu, Yupei Lin, **Han Wu**, Xiaoyu Xian, Yukai Shi, Liang Lin \
 **IEEE Transactions on Geoscience and Remote Sensing (T-GRS)**, 2024.[[PDF](https://arxiv.org/abs/2403.05416)][[Code](https://github.com/luy0222/SIRST-5K)]
-
-#### Scene Text Recognition and Autonomous Driving
-- ***Advanced scene text recognition and application for dynamic driving scenes*** \
-Jiahao Wang, **Yahao Lu***, Lianpei Wu \
-**International Conference on Signal Image Processing and Communication(ICSIPC)**, 2024.[[PDF](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13253/1325318/Advanced-scene-text-recognition-and-application-for-dynamic-driving-scenes/10.1117/12.3041890.short)][[Code](https://luy0222.github.io/)]
+- ***NiteDR: Nighttime Image De-Raining with Cross-View Sensor Cooperative Learning for Dynamic Driving Scenes***     
+Cidan Shi, Lihuang Fang, **Han Wu**, Xiaoyu Xian, Yukai Shi, Liang Lin   
+**IEEE Transactions on Multimedia (T-MM)**, 2024.[[PDF](https://ieeexplore.ieee.org/document/10499836)] [[Code](https://github.com/CidanShi/NiteDR-Nighttime-Image-De-raining)]
+- ***One-shot Face Sketch Synthesis in the Wild via Generative Diffusion Prior and Instruction Tuning*** \
+**Han Wu**, Junyao Li, Kangbo Zhao, Sen Zhang, Yukai Shi, Liang Lin \
+**ACM Transactions on Multimedia Computing Communications and Applications (ACM TOMM‌)**, 2026.[[PDF](https://arxiv.org/abs/2506.15312)]  
 
 # 📖 Educations
 - *2023.09 - now*, Master, School of Information Engineering, Guangdong University of Technology.
